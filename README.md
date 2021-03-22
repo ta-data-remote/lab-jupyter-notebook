@@ -15,6 +15,7 @@ Open the jupyter notebook file `main.ipynb` in the `your-code` directory. Inside
 - Include an index to the relevant sections of your notebook
 - Write a function that inputs the user's name (You or a friend)
 - Add a photo of you or that friend.
+- Write a function that inputs their holidays preference.
 - Add a photo of you or that friend in the holiday destination 
 - Add bullet points of the top 3 things that you or your friend like doing in this destination.
 - Try to make the text colorful, bold or italic.
