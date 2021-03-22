@@ -2,6 +2,8 @@
 
 # Lab | Jupyter Notebook
 
+DUMMY CHANGE 
+
 ## Introduction
 
 Creating a Jupyter notebook that is well commented and tells the story of your code / project is very important. It will be relevant for your upcoming projects during the bootcamp.
