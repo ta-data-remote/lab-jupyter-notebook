@@ -13,8 +13,7 @@ Open the jupyter notebook file `main.ipynb` in the `your-code` directory. Inside
 - In the notebook that you created, introduce someone and her/his holidays preference with a picture and a link to a youtube video of this holiday preference (It can be you :D).
 - Explain the purpose of the notebook with beautiful markdown!
 - Include an index to the relevant sections of your notebook
-- Write a function that inputs the user's name (You or a friend)
-- Add a photo of you or that friend.
+- Add a photo of you or a friend.
 - Write a function that inputs their holidays preference.
 - Add a photo of you or that friend in the holiday destination 
 - Add bullet points of the top 3 things that you or your friend like doing in this destination.
